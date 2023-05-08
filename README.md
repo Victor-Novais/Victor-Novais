@@ -2,7 +2,8 @@
 <h1>Olá, meu nome é Victor Novais 👋.</h1
 
 
-[![Victor Novais's github stats](https://github-readme-stats.vercel.app/api?username=Victor-Novais&show_icons=true&theme=radical)](https://github.com/Victor-Novais)
+
+  
 
 </div>
   <div style="display: inline_block"><br>
