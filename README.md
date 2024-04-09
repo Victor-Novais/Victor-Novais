@@ -2,9 +2,8 @@
 
 Sou DESENVOLVEDOR FULLSTACK .
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Novais&show_icons=true&theme=tokyonight" alt="Victor Novais GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Novais&layout=compact&theme=tokyonight" alt="Victor Novais GitHub Top Languages" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-Novais&theme=youtube-dark&hide_border=true&border_radius=5.4&locale=pt_BR)](https://git.io/streak-stats)
+
 </p>
 
 ## Linguagens e Ferramentas que Eu Uso
