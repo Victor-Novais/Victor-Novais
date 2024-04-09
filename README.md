@@ -1,9 +1,10 @@
 # Olá, eu sou o Victor Novais 👋
 
 Sou DESENVOLVEDOR FULLSTACK .
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-Novais&theme=youtube-dark&hide_border=true&border_radius=5.4&locale=pt_BR)](https://git.io/streak-stats)
-
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Victor-Novais&theme=youtube-dark&hide_border=true&border_radius=5.4&locale=pt_BR" alt="GitHub Streak">
+    </a>
 </p>
 
 ## Linguagens e Ferramentas que Eu Uso
