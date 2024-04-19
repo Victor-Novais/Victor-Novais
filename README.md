@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=BD000000&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Novais+%F0%9F%91%8B">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=21&pause=1001&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=ol%C3%A1%2C+eu+sou+Victor+Novais+%F0%9F%91%8B;Sou+um+desenvolvedor+FullStack" alt="Typing SVG" /></a>
 </p>
 
 ---
