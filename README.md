@@ -1,3 +1,5 @@
+
+
 # Olá, eu sou o Victor Novais 👋
 
 Sou DESENVOLVEDOR FULLSTACK .
@@ -26,4 +28,7 @@ Você pode me encontrar em:
   <a href="mailto:victornovais1337@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/victor-novais-/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/victor_.novais/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=65&section=footer"/>
 </p>
