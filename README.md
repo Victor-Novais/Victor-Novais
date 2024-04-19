@@ -1,6 +1,8 @@
 
 
-# Olá, eu sou o Victor Novais 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=BD000000&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Novais+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 
 Sou DESENVOLVEDOR FULLSTACK .
 <p align="center">
